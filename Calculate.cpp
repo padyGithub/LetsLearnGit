@@ -7,7 +7,7 @@ void Main(){
   int a =5;
   int b=10;
 
-  cout << a+b << endl;
+  cout <<"Sum is :"<< a+b << endl;
 
  };
 
